@@ -4,8 +4,7 @@
 	- Réseaux
 	- Machine Learning 
 	- Deep learning 
-
-- 🔭 I’m currently working on ...
+ 
 - 🌱 je suis entrain d'apprendre le Machine Learning, Deep learning
 - 👯 Je cherche à collaborer sur divers projets ( Réseaux, Machine Learning, Deep learning etc...)
 - 🤔 Je cherche l'aide pour approfondir mes connaisances 
