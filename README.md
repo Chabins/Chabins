@@ -1,7 +1,7 @@
 # 💫 About Me:
 Étudiante en Télécommunication<br><br>Passionnée de : 
 
-	- Réseaux
+	- Réseaux et Sécurité
 	- Machine Learning 
 	- Deep learning 
  
