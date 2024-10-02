@@ -1,14 +1,13 @@
 # 💫 About Me:
-Étudiante en Télécommunication<br><br>Passionnée de : 
+Étudiante en Sécurité et Qualité des Réseaux ( Polytech Dijon ) <br><br>Passionnée de : 
 
-	- Réseaux et Sécurité
+	- Réseaux 
+ 	- Cybersécurité
 	- Machine Learning 
-	- Deep learning 
  
-- 🌱 je suis entrain d'apprendre le Machine Learning, Deep learning
+- 🤔 Je cherche un stage de minimun 17 semaines dès Avril 2024 en Administration Réseaux et Systémes Informatiques ainsi qu'en Cybersécurité 
 - 👯 Je cherche à collaborer sur divers projets ( Réseaux, Machine Learning, Deep learning etc...)
-- 🤔 Je cherche l'aide pour approfondir mes connaisances 
-- 💬 Posez-moi des questions
+- 💬 Posez-moi des questions : chablaghom@gmail.com 
 
 
 ## 🌐 Socials:
