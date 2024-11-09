@@ -5,9 +5,9 @@
  	- Cybersécurité
 	- Machine Learning 
  
-- 🤔 Je cherche un stage de minimun 17 semaines dès Avril 2024 en Administration Réseaux et Systémes Informatiques ainsi qu'en Cybersécurité 
-- 👯 Je cherche à collaborer sur divers projets ( Réseaux, Machine Learning, Deep learning etc...)
-- 💬 Posez-moi des questions : chablaghom@gmail.com 
+- 🤔 Je cherche un stage de minimun 17 semaines dès Avril 2024 en Administration Réseaux et Systémes Informatiques ainsi qu'en Cybersécurité en France 
+- 💬 Posez-moi des questions : chablaghom@gmail.com
+  
 
 
 ## 🌐 Socials:
